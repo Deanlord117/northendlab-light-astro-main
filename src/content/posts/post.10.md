@@ -82,3 +82,15 @@ Las copias de seguridad son la red de seguridad de todo sistema. Estos son algun
 Las tarjetas gráficas dejaron de ser solo para gamers; ahora son motores esenciales para todo lo visual y computacional. Entender sus tipos, montaje y configuración te da ventaja para sacar el máximo provecho de tu equipo.
 
 ---
+
+### **Bibliografía APA – Tema 10.1: Conectar y ajustar un ZIP, un CD Rewriter**
+
+PCMag. (2022). *Definition of: Zip drive*. [https://www.pcmag.com/encyclopedia/term/zip-drive](https://www.pcmag.com/encyclopedia/term/zip-drive)
+
+How-To Geek. (2023). *What Is a CD-RW and How Does It Work?* [https://www.howtogeek.com/823160/what-is-a-cd-rw/](https://www.howtogeek.com/823160/what-is-a-cd-rw/)
+
+Verbatim. (2023). *What’s the difference between CD, DVD and Blu-ray?* [https://www.verbatim.com/en/support/optical-media-faq/](https://www.verbatim.com/en/support/optical-media-faq/)
+
+Microsoft Support. (2024). *Burn a CD or DVD in Windows*. [https://support.microsoft.com/en-us/windows/burn-a-cd-or-dvd-in-windows-7d1f8d9d-70b6-b68b-4e87-7a0b6a6f36a3](https://support.microsoft.com/en-us/windows/burn-a-cd-or-dvd-in-windows-7d1f8d9d-70b6-b68b-4e87-7a0b6a6f36a3)
+
+Backblaze. (2023). *What Is Data Backup and Why Is It Important?* [https://www.backblaze.com/blog/what-is-data-backup/](https://www.backblaze.com/blog/what-is-data-backup/)

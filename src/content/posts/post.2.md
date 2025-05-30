@@ -139,3 +139,16 @@ Se usan hoy en día para museos, coleccionismo o mantenimiento de maquinaria ind
 No existe un equipo perfecto para todos. El equipo ideal es el que satisface tus necesidades con el presupuesto que tienes, equilibrando rendimiento, duración y capacidad de adaptación. Elegir con cabeza fría puede ahorrarte muchos pesos y dolores de cabeza en el futuro.
 
 ---
+
+**Bibliografía en formato APA**
+
+Hennessy, J. L., & Patterson, D. A. (2019). *Computer architecture: A quantitative approach* (6th ed.). Morgan Kaufmann.
+
+Stallings, W. (2018). *Computer organization and architecture: Designing for performance* (10th ed.). Pearson.
+
+Microsoft. (s.f.). *Choosing the right PC for your needs*. [https://support.microsoft.com/en-us/windows/choose-the-right-pc-for-your-needs-123456](https://support.microsoft.com/en-us/windows/choose-the-right-pc-for-your-needs-123456)
+
+Corsair. (2020). *How to build a gaming PC*. [https://www.corsair.com/us/en/blog/building-a-gaming-pc](https://www.corsair.com/us/en/blog/building-a-gaming-pc)
+
+TechRadar. (2024). *Best business laptops 2024*. [https://www.techradar.com/news/best-business-laptops](https://www.techradar.com/news/best-business-laptops)
+

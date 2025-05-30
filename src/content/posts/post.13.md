@@ -97,3 +97,15 @@ Accede a la configuración escribiendo `192.168.1.1` en el navegador. Ingresa el
 Las tarjetas gráficas dejaron de ser solo para gamers; ahora son motores esenciales para todo lo visual y computacional. Entender sus tipos, montaje y configuración te da ventaja para sacar el máximo provecho de tu equipo.
 
 ---
+
+### **Bibliografía APA – Tema 13: Ajuste y configuración del módem**
+
+Cisco. (2023). *Modem Configuration and Troubleshooting*. [https://www.cisco.com/](https://www.cisco.com/)
+
+TP-Link. (2024). *How to log into the web-based interface of the TP-Link Wireless N Router*. [https://www.tp-link.com/](https://www.tp-link.com/)
+
+NetSpot. (2022). *How to Change Your Wi-Fi Channel*. [https://www.netspotapp.com/](https://www.netspotapp.com/)
+
+Speedtest by Ookla. (2023). *Speedtest Internet Speed Test*. [https://www.speedtest.net/](https://www.speedtest.net/)
+
+Movistar México. (2023). *Configuración de módems y routers*. [https://ayuda.movistar.com.mx](https://ayuda.movistar.com.mx)

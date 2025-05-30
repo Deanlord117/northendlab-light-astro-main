@@ -130,3 +130,18 @@ Si se agota, la computadora puede mostrar errores al encender o reiniciar el rel
 La placa base es el puente que une todos los componentes. Comprender su estructura, sus conexiones y su relación con el CPU es fundamental para armar, mantener y optimizar cualquier equipo de cómputo. No es solo una base física, es el centro nervioso del sistema.
 
 ---
+
+**Bibliografía en formato APA**
+
+Intel Corporation. (2023). *Understanding BIOS and UEFI*. [https://www.intel.com/content/www/us/en/support/articles/000005486/boards-and-kits.html](https://www.intel.com/content/www/us/en/support/articles/000005486/boards-and-kits.html)
+
+ASUS. (2024). *Motherboard jumpers and CMOS reset guide*. [https://www.asus.com/support/FAQ/1013861/](https://www.asus.com/support/FAQ/1013861/)
+
+Gibson, D. (2020). *PC hardware: The complete reference*. McGraw-Hill Education.
+
+Seagate Technology. (2022). *Motherboard and CPU interaction fundamentals*. [https://www.seagate.com/tech-insights/motherboard-cpu-fundamentals-master-ti/](https://www.seagate.com/tech-insights/motherboard-cpu-fundamentals-master-ti/)
+
+Corsair. (2023). *How to install a motherboard step by step*. [https://www.corsair.com/us/en/blog/how-to-install-a-motherboard](https://www.corsair.com/us/en/blog/how-to-install-a-motherboard)
+
+Kingston Technology. (2021). *CMOS battery: What it is and why it matters*. [https://www.kingston.com/en/blog/pc-build/cmos-battery](https://www.kingston.com/en/blog/pc-build/cmos-battery)
+

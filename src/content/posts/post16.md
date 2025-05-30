@@ -101,4 +101,18 @@ Pasos comunes:
 
 Instalar una red LAN no solo es cuestión de conectar cables. Requiere orden, planificación y conocimiento técnico para asegurar que la conectividad sea estable y segura. Ya sea en una oficina o en tu hogar, una buena red es la columna vertebral de la productividad moderna.
 
+
 ---
+
+### Bibliografía APA – Tema 16: Redes LAN y Cableado
+
+Cisco Systems. (2023). *Introducción a redes LAN y cableado estructurado*. Recuperado de [https://www.cisco.com/](https://www.cisco.com/)
+
+Gómez, A. (2021). *Redes de computadoras: conceptos y práctica*. Editorial Alfa.
+
+Microsoft Docs. (2023). *Configurar y administrar redes en Windows*. [https://learn.microsoft.com/](https://learn.microsoft.com/)
+
+Redes y Telecomunicaciones. (2022). *Guía práctica para la instalación de redes LAN*. [https://www.redesytelecomunicaciones.com/](https://www.redesytelecomunicaciones.com/)
+
+Tanembaum, A., & Wetherall, D. (2019). *Redes de computadoras* (5ª ed.). Pearson.
+

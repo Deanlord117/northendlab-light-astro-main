@@ -119,3 +119,15 @@ Después de instalar, es vital:
 Las tarjetas gráficas dejaron de ser solo para gamers; ahora son motores esenciales para todo lo visual y computacional. Entender sus tipos, montaje y configuración te da ventaja para sacar el máximo provecho de tu equipo.
 
 ---
+
+### **Bibliografía APA – Tema 7: Las tarjetas gráficas**
+
+NVIDIA. (2024). *What is a GPU?*. [https://www.nvidia.com/en-us/drivers/what-is-gpu/](https://www.nvidia.com/en-us/drivers/what-is-gpu/)
+
+AMD. (2023). *Graphics card installation guide*. [https://www.amd.com/en/support/kb/faq/gpu-installation](https://www.amd.com/en/support/kb/faq/gpu-installation)
+
+Intel. (2023). *Integrated vs. discrete graphics*. [https://www.intel.com/content/www/us/en/gaming/resources/integrated-vs-dedicated-graphics.html](https://www.intel.com/content/www/us/en/gaming/resources/integrated-vs-dedicated-graphics.html)
+
+Puget Systems. (2023). *Recommended workstation GPUs for content creation*. [https://www.pugetsystems.com/labs/articles/gpu-comparison/](https://www.pugetsystems.com/labs/articles/gpu-comparison/)
+
+TechSpot. (2024). *How to choose the right graphics card for your PC*. [https://www.techspot.com/guides/graphics-cards/](https://www.techspot.com/guides/graphics-cards/)

@@ -141,3 +141,16 @@ El sobrecalentamiento reduce la vida útil y el rendimiento del CPU.
 El procesador es el corazón del equipo: de él depende la velocidad, estabilidad y capacidad de respuesta. Elegirlo bien, instalarlo correctamente y mantenerlo fresco es clave para un rendimiento duradero y confiable.
 
 ---
+
+**Bibliografía en formato APA**
+
+Hennessy, J. L., & Patterson, D. A. (2019). *Computer architecture: A quantitative approach* (6th ed.). Morgan Kaufmann.
+
+Intel Corporation. (2024). *Choosing the right processor for your needs*. [https://www.intel.com/content/www/us/en/products/docs/processors/choosing-right-processor.html](https://www.intel.com/content/www/us/en/products/docs/processors/choosing-right-processor.html)
+
+AMD. (2024). *AMD Ryzen™ processor family*. [https://www.amd.com/en/processors/ryzen](https://www.amd.com/en/processors/ryzen)
+
+Tom’s Hardware. (2023). *How to choose the best CPU for gaming and productivity*. [https://www.tomshardware.com/reviews/best-cpus](https://www.tomshardware.com/reviews/best-cpus)
+
+Microsoft Docs. (s.f.). *BIOS update and CPU compatibility*. [https://docs.microsoft.com/en-us/windows-hardware/drivers/install/bios-updates](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/bios-updates)
+

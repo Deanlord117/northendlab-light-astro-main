@@ -103,4 +103,15 @@ Hoy el enfoque va hacia la impresión sostenible y multifuncional. Las impresora
 La impresora, aunque a veces olvidada, sigue siendo una herramienta vital en hogares, escuelas y oficinas. Saber elegir, cuidar y optimizar su uso te ahorra tiempo, dinero y dolores de cabeza. Las impresoras del futuro prometen más conectividad, menos consumo y una integración completa con el entorno digital.
 
 ---
----
+
+### **Bibliografía APA – Tema 14: Impresoras**
+
+Brother. (2023). *Guía para el mantenimiento de impresoras*. [https://www.brother.com.mx/](https://www.brother.com.mx/)
+
+Canon México. (2023). *Tipos de impresoras y cuál elegir según tus necesidades*. [https://www.canon.com.mx/](https://www.canon.com.mx/)
+
+Epson. (2024). *Consejos para ahorrar tinta y mejorar el rendimiento de tu impresora*. [https://www.epson.com.mx/](https://www.epson.com.mx/)
+
+HP. (2023). *Cómo imprimir de forma económica y ecológica*. [https://support.hp.com/](https://support.hp.com/)
+
+Xataka. (2022). *Guía de compra de impresoras: láser, tinta, multifuncional y más*. [https://www.xataka.com/](https://www.xataka.com/)

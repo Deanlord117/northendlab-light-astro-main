@@ -118,3 +118,20 @@ Crear una USB booteable con Rufus o Balena Etcher e instalar un sistema operativ
 
 ### Evaluación
 <iframe width="640px" height="480px" src="https://forms.cloud.microsoft/r/WekTkfTPEt?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+
+**Bibliografía en formato APA**
+
+Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating system concepts* (10th ed.). Wiley.
+
+Katz, R. (2002). *Computer repair with diagnostic flowcharts*. Que Publishing.
+
+Stallings, W. (2015). *Computer organization and architecture: Designing for performance* (10th ed.). Pearson.
+
+Morton, C. H. (2017). *Computer security: Principles and practice* (4th ed.). Pearson.
+
+Microsoft. (s.f.). *Create a bootable USB flash drive*. [https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/create-a-bootable-usb-flash-drive](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/create-a-bootable-usb-flash-drive)
+
+Balena. (s.f.). *How to flash OS images to USB and SD cards*. [https://www.balena.io/etcher/](https://www.balena.io/etcher/)
+
+

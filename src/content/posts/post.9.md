@@ -94,4 +94,17 @@ Elegir el disco correcto depende del uso que le des al equipo:
 
 El disco duro es el corazón del almacenamiento. Saber cómo cuidarlo y cuál elegir hace toda la diferencia entre una máquina lenta y una que vuele. Si optimizas el uso, optimizas todo.
 
+
 ---
+
+### **Bibliografía APA – Tema 9: El disco duro**
+
+Kingston Technology. (2023). *SSD vs HDD: What's the difference?* [https://www.kingston.com/en/blog/pc-performance/ssd-vs-hdd](https://www.kingston.com/en/blog/pc-performance/ssd-vs-hdd)
+
+Western Digital. (2024). *Hard Drive vs. SSD: What’s the difference?* [https://www.westerndigital.com/products/internal-drives/hdd-vs-ssd](https://www.westerndigital.com/products/internal-drives/hdd-vs-ssd)
+
+Seagate Technology. (2023). *How to check hard drive health*. [https://www.seagate.com/support/kb/how-to-check-hard-drive-health-006008en/](https://www.seagate.com/support/kb/how-to-check-hard-drive-health-006008en/)
+
+Microsoft Support. (2024). *Improve performance by optimizing your drive*. [https://support.microsoft.com/en-us/windows/improve-performance-by-optimizing-your-drive](https://support.microsoft.com/en-us/windows/improve-performance-by-optimizing-your-drive)
+
+Crystal Dew World. (2024). *CrystalDiskInfo: Software for monitoring HDD/SSD health*. [https://crystalmark.info/en/software/crystaldiskinfo/](https://crystalmark.info/en/software/crystaldiskinfo/)

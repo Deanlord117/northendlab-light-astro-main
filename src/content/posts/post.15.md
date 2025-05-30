@@ -115,3 +115,18 @@ Los puertos son los puntos de conexión entre el equipo y sus periféricos. Los 
 Dominar los dispositivos de entrada y salida es dominar la puerta de comunicación con tu PC. Saber instalarlos, conectarlos y mantenerlos en forma es clave para que todo funcione bien, tanto en una oficina como en casa. Hoy más que nunca, la conectividad y la interoperabilidad son esenciales.
 
 ---
+
+### **Bibliografía APA – Tema 15: Dispositivos y Puertos**
+
+EcuRed. (s.f.). *Dispositivo de entrada*. Recuperado de [https://www.ecured.cu/](https://www.ecured.cu/)
+
+EcuRed. (s.f.). *Dispositivo de salida*. Recuperado de [https://www.ecured.cu/](https://www.ecured.cu/)
+
+HP. (2023). *Cómo conectar dispositivos externos a tu PC*. [https://support.hp.com/](https://support.hp.com/)
+
+Intel. (2022). *Understanding I/O ports and how they work*. [https://www.intel.com/](https://www.intel.com/)
+
+Microsoft. (2023). *Solución de problemas con dispositivos y controladores*. [https://support.microsoft.com/](https://support.microsoft.com/)
+
+Xataka. (2023). *Guía completa sobre puertos y conectores de tu computadora*. [https://www.xataka.com/](https://www.xataka.com/)
+

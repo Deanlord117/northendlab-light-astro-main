@@ -91,3 +91,17 @@ Saber detectar y corregir fallas es una habilidad clave para cualquier técnico 
 
 
 ---
+
+### Bibliografía APA – Tema 17: Diagnóstico y solución de fallas en computadoras
+
+Barrón, J. (2022). *Mantenimiento y reparación de computadoras: guía práctica*. Editorial Alfa.
+
+García, M., & López, R. (2021). *Solución de problemas en hardware y software*. TecnoPress.
+
+Microsoft Docs. (2024). *Diagnóstico y solución de problemas en Windows*. Recuperado de [https://learn.microsoft.com/](https://learn.microsoft.com/)
+
+Nave, R. (2019). *Guía para técnicos en computación: fallas comunes y su reparación*. Editorial Beta.
+
+Silberschatz, A., Galvin, P., & Gagne, G. (2020). *Sistemas operativos: conceptos y diseño* (10ª ed.). Wiley.
+
+

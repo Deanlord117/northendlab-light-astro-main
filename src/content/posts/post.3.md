@@ -127,4 +127,15 @@ Va volando, aquí tienes la práctica para el tema **Actualizar un equipo de có
 
 Actualizar un equipo de cómputo no solo implica ponerle partes nuevas, sino entender qué necesita, cómo configurarlo correctamente y cómo evitar errores comunes. Saber instalar drivers, ajustar Windows y tomar decisiones con criterio al comparar hardware, marca la diferencia entre un técnico improvisado y uno con visión profesional.
 
----
+**Bibliografía en formato APA**
+
+Russinovich, M., Solomon, D., & Ionescu, A. (2018). *Windows internals* (7th ed.). Microsoft Press.
+
+Intel Corporation. (2023). *Understanding drivers and device management*. [https://www.intel.com/content/www/us/en/support/articles/000005624/software.html](https://www.intel.com/content/www/us/en/support/articles/000005624/software.html)
+
+IObit. (2024). *Driver Booster user guide*. [https://www.iobit.com/en/driver-booster.php](https://www.iobit.com/en/driver-booster.php)
+
+Microsoft. (s.f.). *Optimize Windows 10 for better performance*. [https://support.microsoft.com/en-us/windows/optimize-windows-10-for-better-performance](https://support.microsoft.com/en-us/windows/optimize-windows-10-for-better-performance)
+
+TechRepublic. (2023). *How to update drivers in Windows 10*. [https://www.techrepublic.com/article/how-to-update-drivers-in-windows-10/](https://www.techrepublic.com/article/how-to-update-drivers-in-windows-10/)
+

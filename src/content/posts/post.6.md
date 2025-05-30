@@ -89,4 +89,18 @@ Una instalación correcta requiere descargar electricidad estática y colocar bi
 
 La RAM es uno de los componentes más importantes para asegurar fluidez y velocidad. Saber cómo monitorearla, optimizarla y ampliarla no solo extiende la vida útil del equipo, también mejora directamente la experiencia del usuario en tareas cotidianas y exigentes.
 
+
 ---
+
+### **Bibliografía APA – Tema 6: La memoria RAM**
+
+Crucial. (2023). *How to upgrade RAM (memory) on a laptop or desktop computer*. [https://www.crucial.com/articles/about-memory/how-to-upgrade-ram](https://www.crucial.com/articles/about-memory/how-to-upgrade-ram)
+
+Kingston Technology. (2022). *Understanding RAM: What it is and how it works*. [https://www.kingston.com/en/blog/pc-performance/what-is-ram](https://www.kingston.com/en/blog/pc-performance/what-is-ram)
+
+Corsair. (2023). *Maximizing system performance with RAM upgrades*. [https://www.corsair.com/us/en/blog/maximize-system-performance](https://www.corsair.com/us/en/blog/maximize-system-performance)
+
+Microsoft. (2024). *Tips to improve PC performance in Windows*. [https://support.microsoft.com/en-us/windows/tips-to-improve-pc-performance](https://support.microsoft.com/en-us/windows/tips-to-improve-pc-performance)
+
+Intel. (2023). *How much RAM do you need?* [https://www.intel.com/content/www/us/en/gaming/resources/how-much-ram-do-you-need.html](https://www.intel.com/content/www/us/en/gaming/resources/how-much-ram-do-you-need.html)
+

@@ -110,3 +110,18 @@ Los monitores del futuro ya vienen marcando pauta:
 Un buen monitor no solo mejora la experiencia visual, también cuida la vista y eleva la productividad. Conocer sus características es clave para elegir con inteligencia, ya sea para jugar, trabajar o crear.
 
 ---
+
+### **Bibliografía APA – Tema 8: El monitor**
+
+BenQ. (2023). *Monitor buying guide: What to look for in 2023*. [https://www.benq.com/en-us/knowledge-center/knowledge/monitor-buying-guide.html](https://www.benq.com/en-us/knowledge-center/knowledge/monitor-buying-guide.html)
+
+Dell Technologies. (2024). *Monitor technology explained*. [https://www.dell.com/support/kbdoc/en-us/000137158](https://www.dell.com/support/kbdoc/en-us/000137158)
+
+HP. (2023). *Monitor features and specs explained*. [https://www.hp.com/us-en/shop/tech-takes/monitor-specs-explained](https://www.hp.com/us-en/shop/tech-takes/monitor-specs-explained)
+
+LG Electronics. (2024). *OLED vs LED monitors: Which is better?*. [https://www.lg.com/us/monitors/oled-vs-led](https://www.lg.com/us/monitors/oled-vs-led)
+
+Samsung. (2023). *What is refresh rate in monitors and why it matters*. [https://www.samsung.com/global/monitors/refresh-rate/](https://www.samsung.com/global/monitors/refresh-rate/)
+
+TechRadar. (2024). *Best monitors for gaming, design and work in 2024*. [https://www.techradar.com/best/best-monitor](https://www.techradar.com/best/best-monitor)
+.

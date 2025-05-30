@@ -94,3 +94,15 @@ Aunque hoy muchas tarjetas están integradas en la placa base, las dedicadas ofr
 Las tarjetas de sonido siguen siendo clave para quienes buscan una experiencia de audio más refinada. Saber instalarlas, configurarlas y resolver errores comunes es parte del mantenimiento esencial de un equipo de cómputo. Una buena tarjeta puede marcar la diferencia entre un sonido plano y uno profesional.
 
 ---
+
+### **Bibliografía APA – Tema 12: Tarjetas de sonido**
+
+Intel. (2022). *How to Install a Sound Card*. [https://www.intel.com/content/www/us/en/support/articles/000005602.html](https://www.intel.com/content/www/us/en/support/articles/000005602.html)
+
+Realtek. (2023). *HD Audio Codec Driver Software*. [https://www.realtek.com/en/downloads](https://www.realtek.com/en/downloads)
+
+Microsoft Support. (2023). *Fix sound problems in Windows*. [https://support.microsoft.com/en/help/4520288/windows-10-fix-sound-problems](https://support.microsoft.com/en/help/4520288/windows-10-fix-sound-problems)
+
+TechSpot. (2021). *PCI vs PCIe: What’s the difference?* [https://www.techspot.com/article/1989-pci-vs-pcie/](https://www.techspot.com/article/1989-pci-vs-pcie/)
+
+Computer Hope. (2024). *How to install a computer sound card*. [https://www.computerhope.com/issues/ch000263.htm](https://www.computerhope.com/issues/ch000263.htm)

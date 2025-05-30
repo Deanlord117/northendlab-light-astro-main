@@ -98,3 +98,16 @@ Las unidades CD-ROM también pueden reproducir audio directamente desde discos. 
 Aunque los CD-ROM ya no son tan comunes como antes, aún tienen su lugar en el mantenimiento, instalación de software antiguo y respaldo de datos. Saber instalarlos, configurarlos y entender cómo funcionan es respetar los orígenes del almacenamiento óptico.
 
 ---
+
+### **Bibliografía APA – Tema 11.2 al 11.4: Unidades de CD-ROM**
+
+Kingston Technology. (2023). *How to install an internal CD/DVD drive*. [https://www.kingston.com/en/blog/pc-performance/how-to-install-cd-dvd-drive](https://www.kingston.com/en/blog/pc-performance/how-to-install-cd-dvd-drive)
+
+How-To Geek. (2022). *Understanding IDE, SATA, and Other Drive Interfaces*. [https://www.howtogeek.com/343287/what-are-the-differences-between-ide-and-sata/](https://www.howtogeek.com/343287/what-are-the-differences-between-ide-and-sata/)
+
+TechSpot. (2021). *What is BIOS and How to Access It*. [https://www.techspot.com/guides/2417-bios/](https://www.techspot.com/guides/2417-bios/)
+
+Microsoft Support. (2023). *Change, add, or remove a drive letter in Windows*. [https://support.microsoft.com/en-us/windows/change-add-or-remove-a-drive-letter-in-windows-8a5e3d7c-5f3b-22b2-e7cd-d759f3881f2f](https://support.microsoft.com/en-us/windows/change-add-or-remove-a-drive-letter-in-windows-8a5e3d7c-5f3b-22b2-e7cd-d759f3881f2f)
+
+Computer Hope. (2024). *How to play an audio CD in a computer*. [https://www.computerhope.com/issues/ch000848.htm](https://www.computerhope.com/issues/ch000848.htm)
+
