@@ -32,7 +32,7 @@ export default defineConfig({
         "@/shortcodes/Accordion",
         "@/shortcodes/Notice",
         "@/shortcodes/Video",
-        "@/shortcodes/Youtube",
+        //"@/shortcodes/Youtube",
       ],
     }),
     mdx(),
