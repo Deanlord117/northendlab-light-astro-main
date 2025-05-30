@@ -1,14 +1,21 @@
-import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
-import vercel from "@astrojs/vercel";
 import tailwindcss from "@tailwindcss/vite";
 import AutoImport from "astro-auto-import";
+import { defineConfig } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
-import { getHighlighter } from "shiki"; // Importación estática
+
+let highlighter;
+async function getHighlighter() {
+  if (!highlighter) {
+    const { getHighlighter } = await import("shiki");
+    highlighter = await getHighlighter({ theme: "one-dark-pro" });
+  }
+  return highlighter;
+}
 
 // https://astro.build/config
 export default defineConfig({
@@ -45,8 +52,6 @@ export default defineConfig({
       wrap: true,
     },
     extendDefaultPlugins: true,
-    highlighter: getHighlighter, // Uso de Shiki corregido
+    highlighter: getHighlighter,
   },
-  output: "server", // Configuración necesaria para Vercel
-  adapter: vercel(), // Adaptador de Vercel para despliegue
 });

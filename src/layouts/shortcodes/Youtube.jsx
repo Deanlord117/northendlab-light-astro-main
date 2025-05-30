@@ -1,8 +1,17 @@
-import LiteYouTubeEmbed from "react-lite-youtube-embed";
-import "react-lite-youtube-embed/dist/LiteYouTubeEmbed.css";
-
-const Youtube = ({ id, title, ...rest }) => {
-  return <LiteYouTubeEmbed id={id} title={title} {...rest} />;
+const Youtube = ({ id, title }) => {
+  return (
+    <div className="aspect-video w-full rounded-xl overflow-hidden">
+      <iframe
+        src={`https://www.youtube.com/embed/${id}`}
+        title={title}
+        loading="lazy"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+        className="w-full h-full"
+      ></iframe>
+    </div>
+  );
 };
 
 export default Youtube;

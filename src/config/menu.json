@@ -3,10 +3,6 @@
     {
       "name": "Home",
       "url": "/"
-    },
-    {
-      "name": "Contacto",
-      "url": "/contact"
     }
   ],
   "footer": [
