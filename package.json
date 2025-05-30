@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "vercel-build": "npm run build",
     "preview": "astro preview",
     "check": "astro check",
     "format": "prettier -w ."
@@ -14,7 +15,7 @@
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "4.2.0",
     "@astrojs/rss": "4.0.11",
-    "@astrojs/vercel": "^8.1.4",
+    "@astrojs/vercel": "^8.0.4",
     "@tailwindcss/vite": "^4.0.14",
     "astro": "5.5.2",
     "astro-auto-import": "^0.4.4",

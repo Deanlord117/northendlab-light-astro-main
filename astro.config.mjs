@@ -17,12 +17,16 @@ async function getHighlighter() {
   return highlighter;
 }
 
-// https://astro.build/config
 export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "http://examplesite.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
+
+  // ESTA LÍNEA es la que obliga a Astro a generar carpeta dist estática
+  output: "static",
+
   vite: { plugins: [tailwindcss()] },
+
   integrations: [
     react(),
     sitemap(),
@@ -32,11 +36,12 @@ export default defineConfig({
         "@/shortcodes/Accordion",
         "@/shortcodes/Notice",
         "@/shortcodes/Video",
-        //"@/shortcodes/Youtube",
+        // Ya quitaste Youtube para que no te joda
       ],
     }),
     mdx(),
   ],
+
   markdown: {
     remarkPlugins: [
       remarkToc,
